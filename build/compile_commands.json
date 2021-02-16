@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/code/exp/parentheses/build",
+  "command": "D:\\Program_FILE_NEW\\Mingw-w64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\parentheses.dir\\main.cpp.obj -c E:\\code\\exp\\parentheses\\main.cpp",
+  "file": "E:/code/exp/parentheses/main.cpp"
+},
+{
+  "directory": "E:/code/exp/parentheses/build",
+  "command": "D:\\Program_FILE_NEW\\Mingw-w64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\parentheses.dir\\parentheses.cpp.obj -c E:\\code\\exp\\parentheses\\parentheses.cpp",
+  "file": "E:/code/exp/parentheses/parentheses.cpp"
+}
+]

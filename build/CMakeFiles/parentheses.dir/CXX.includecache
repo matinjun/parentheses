@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/code/exp/parentheses/parentheses.cpp
+parentheses.h
+E:/code/exp/parentheses/parentheses.h
+
+E:/code/exp/parentheses/parentheses.h
+string
+-
+
